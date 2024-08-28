@@ -20,3 +20,4 @@ Para compilar o programa, utilize o comando `g++` com os arquivos de código-fon
 
 ```bash
 g++ main.cpp hashTable.cpp -o Main
+```
